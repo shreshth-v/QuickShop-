@@ -1,0 +1,32 @@
+# Ignore node_modules for both frontend and backend
+ecommerce-backend/node_modules/
+ecommerce-frontend/node_modules/
+
+
+# Ignore .env files for both frontend and backend
+ecommerce-backend/.env
+ecommerce-frontend/.env
+
+# Ignore build files
+frontend/build/
+backend/build/
+
+# Ignore logs
+logs/
+*.log
+npm-debug.log*
+
+# Ignore build and cache folders for deployment
+ecommerce-frontend/.vercel/
+ecommerce-frontend/.cache/
+ecommerce-backend/.cache/
+ecommerce-frontend/build/
+ecommerce-backend/build/
+ecommerce-frontend/dist/
+ecommerce-backend/dist/
+
+# Miscellaneous files
+.DS_Store
+
+# Ignore VS Code settings
+.vscode/
