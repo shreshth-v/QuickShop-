@@ -80,8 +80,8 @@ server.js                     # Express server entry
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/quickshop-electronics.git
-cd quickshop-electronics
+git clone https://github.com/shreshth-v/QuickShop-.git
+cd electronics ecommerce
 ```
 
 ### 2. Backend Setup
